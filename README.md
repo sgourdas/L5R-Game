@@ -18,7 +18,7 @@ More info on the game can be found [here](https://en.wikipedia.org/wiki/Legend_o
 
 ### Compilation
 
-Enter the ``` make ``` command while in the */HexGame/* directory
+Enter the ``` make ``` command while in the */L5R-Game/* directory
 
 ### Execution 
 
