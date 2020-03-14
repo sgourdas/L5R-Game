@@ -27,4 +27,4 @@ Type ``` ./L5R ``` while in the game's directory
 
 
 ## About
-- This is a third semester assignment, by professor [I.Karali](http://cgi.di.uoa.gr/~izambo/ENG.html), for the Department of Informatics and Telecommunications, Uoa. It was recommended for 2 people, but I dicided to take it on solo.
+- This is a third semester assignment, by professor [I.Karali](http://cgi.di.uoa.gr/~izambo/ENG.html), for the Department of Informatics and Telecommunications, Uoa. A 2 people exercise, in collaboration with Michalis Theofanopoulos.
